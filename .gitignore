@@ -1,0 +1,7 @@
+*/__pycache__
+
+# Data Folders
+Project_Data/
+
+# Data Files
+Products_asin.txt
